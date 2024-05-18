@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int count, number;
+    cin >> count;
+
+    // for each number
+    for (int x  = 1; x <= count; x++) {
+        cin >> number;
+        int counter = 0;
+
+        // divisors
+        for (int divisor = 1; divisor <= number; divisor++) {
+            if (number % divisor == 0) {
+                counter++;
+            }
+        }
+
+        // output
+        if (counter <= 4) {
+            cout << "YA\n";
+        } else {
+            cout << "BUKAN\n";
+        }
+    }
+}

@@ -1,0 +1,68 @@
+//#include <iostream>
+#include <cstdio>
+//using namespace std;
+
+int main() {
+    int count, number;
+    scanf("%d", &count);
+
+    // for each number
+    for (int x  = 1; x <= count; x++) {
+        scanf("%d", &number);
+        bool isPrime = true;
+
+        // kill number 1
+        if (number <= 1) {
+            printf("BUKAN\n");
+            continue;
+        }
+
+        // divisors
+        for (int divisor = 2; divisor < number; divisor++) {
+            if (number % divisor == 0) {
+                isPrime = false;
+                break;
+            }
+        }
+
+        // output
+        if (isPrime) {
+            printf("YA\n");
+        } else {
+            printf("BUKAN\n");
+        }
+    }
+}
+
+/* they say <cstdio> is faster, so i'll try it ig
+int main() {
+    int count, number;
+    cin >> count;
+
+    // for each number
+    for (int x  = 1; x <= count; x++) {
+        cin >> number;
+        bool isPrime = true;
+
+        // kill number 1
+        if (number <= 1) {
+            cout << "BUKAN\n";
+            continue;
+        }
+
+        // divisors
+        for (int divisor = 2; divisor < number; divisor++) {
+            if (number % divisor == 0) {
+                isPrime = false;
+                break;
+            }
+        }
+
+        // output
+        if (isPrime) {
+            cout << "YA\n";
+        } else {
+            cout << "BUKAN\n";
+        }
+    }
+}*/

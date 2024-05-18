@@ -1,0 +1,59 @@
+# 2023-08-25
+### Materials
+- Metabolism
+	- Catabolism (Protein; Peptide bond (C-N)) -> Hydrolysis (Lipid; Ester bond (C-O-C))
+	- Anabolism (Protein; Peptide bond (C-N)) -> Condensation (Lipid; combine two; Ester bond (C-O-C); Glycosidic bond (The link between element have a circle in the middle of the link))
+- Monosaccharide
+	- Glucose
+	- Fructose
+	- Ribose
+- How the scientific evidence for health risks of trans-fat and saturated fats?
+	- Saturated fats and *trans* fats raise blood cholesterol levels, while (cis) unsaturated fats lower blood cholesterol levels.
+	  
+	  LDL (bad, increase cholesterol) is low-density lipoprotein = cair
+	  HDL (good, decrease cholesterol) is high-density lipoprotein = beku
+	  
+	  lemak jenuh itu beku (punya ikatan 2; kalau 1 itu tidak jenuh); 
+	  tidak jenuh (unsaturated) itu cair karena ikatannya longgar di suhu ruang (contohnya olive oil, salmon, umumnya berasal dari tumbuhan)
+	  
+	  isomer adalah molekul yang sama tapi strukturnya berbeda
+	  
+	  selama ini makanan kita lebih banyak LDL: roti, pisang, sayuran hijau, beras merah, gandum, kedelai, kacang2an, ikan salmon, alpukat
+	  untuk HDL: telur, buah serat tinggi, ikan berlemak (tergantung pengolahan), kedelai[nV]
+- How the extreme pH and heat influence protein?
+	- Higher temperature and extreme pH may cause a protein to lose its structure and function and making it inactive
+- BMI (Body mass weight)
+	- Body weight in Kg divided by height in M squared
+		- 45 / 1.7[squared] = 15.75575085
+- Galactose is
+### Data based question: Emperor Penguins
+#### a) Calculate the total mass loss for each group of birds.
+- [x] i) wild
+	(17.3 + 11.8 + 7.7 + 0.4) - (14.4 + 2.2 + 6.9 + 0.4) = 13.3 Kg
+- [x] ii) captive
+		(18.2 + 12 + 8 + 0.4) - (14.3 + 0.8 + 6.8 + 0.5) = 16.2 Kg
+#### b) Compare the changes in lipid content of the captive birds with those of the birds living free in the colony.
+- [x] the changes in lipids for the captive birds is more than those birds living free in the colony
+- "because they don't cuddle up in dense crowd, making it less warm thus more lipids are gone"
+#### c) Besides being used as an energy source, state another function of lipid which might be important for penguin survival.
+lipids can be used to store energy ("long term"; in fat molecules; high dense ratio in energy:size), and that energy could be used when there's no input of energy from outer sources like foods
+"glucose can also store energy, but it's much quicker process and for short-term"
+### Data based question: Nomograms and BMI
+#### 1 a) State the body mass index of a man who has a mass of 75 kg and a height of 1.45 metres.
+75 Kg divided by 1.45 metre squared = 35.67181926
+#### b) Deduce the body mass status of this man.
+this man is considered *obese* by the BMI
+#### 2 a) State the body mass of the person standing on the scales on the previous page.
+the body mass of the person standing on the scales on the previous page is 100 kg
+#### b) The person has a height of 1.8 metres. Deduce their body mass status.
+100 kg divided by 1.8 metres squared = 30.86419753; he's *obese* :D
+#### 3) A woman has a height of 150 cm and a BMI of 40. Calculate the minimum amount of body mass she must lose to reach normal body mass status. Show all of your working.
+normal BMI status is 18.5 - 25.0
+this woman's weight is 40 multiplied by 1.5 squared = 90 kg
+for a woman of the height 150 cm, the most body mass one can have and still be considered as normal body mass status is 25 * 1.5 [squared] = 51.75 kg
+90 kg - 51.75 kg = **38.25 kg**
+#### b) Suggest two ways in which the woman could reduce her body mass.
+do more exercises (to burn calories) and diets (to reduce the gains of calories)
+#### 4) Outline the relationship between height and BMI for a fixed body mass.
+when the value of height increases, the BMI scales inversely proportional by the power of 2
+the opposite apply if the value of height decrease
